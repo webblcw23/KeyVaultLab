@@ -1,0 +1,45 @@
+{
+  "version": 2,
+  "dgSpecHash": "I7xJzRhllVY=",
+  "success": true,
+  "projectFilePath": "/Users/lewiswebb/Documents/VSCode_Azure/Mini-e2e-labs/KeyVaultLab/WebApp/WebApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/lewiswebb/.nuget/packages/azure.core/1.38.0/azure.core.1.38.0.nupkg.sha512",
+    "/Users/lewiswebb/.nuget/packages/azure.identity/1.11.2/azure.identity.1.11.2.nupkg.sha512",
+    "/Users/lewiswebb/.nuget/packages/azure.security.keyvault.secrets/4.6.0/azure.security.keyvault.secrets.4.6.0.nupkg.sha512",
+    "/Users/lewiswebb/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.1/microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
+    "/Users/lewiswebb/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/lewiswebb/.nuget/packages/microsoft.identity.client/4.60.3/microsoft.identity.client.4.60.3.nupkg.sha512",
+    "/Users/lewiswebb/.nuget/packages/microsoft.identity.client.extensions.msal/4.60.3/microsoft.identity.client.extensions.msal.4.60.3.nupkg.sha512",
+    "/Users/lewiswebb/.nuget/packages/microsoft.identitymodel.abstractions/6.35.0/microsoft.identitymodel.abstractions.6.35.0.nupkg.sha512",
+    "/Users/lewiswebb/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/lewiswebb/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/Users/lewiswebb/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/Users/lewiswebb/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/Users/lewiswebb/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512",
+    "/Users/lewiswebb/.nuget/packages/system.clientmodel/1.0.0/system.clientmodel.1.0.0.nupkg.sha512",
+    "/Users/lewiswebb/.nuget/packages/system.diagnostics.diagnosticsource/6.0.1/system.diagnostics.diagnosticsource.6.0.1.nupkg.sha512",
+    "/Users/lewiswebb/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/Users/lewiswebb/.nuget/packages/system.memory.data/1.0.2/system.memory.data.1.0.2.nupkg.sha512",
+    "/Users/lewiswebb/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/lewiswebb/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/Users/lewiswebb/.nuget/packages/system.security.cryptography.protecteddata/4.7.0/system.security.cryptography.protecteddata.4.7.0.nupkg.sha512",
+    "/Users/lewiswebb/.nuget/packages/system.text.encodings.web/4.7.2/system.text.encodings.web.4.7.2.nupkg.sha512",
+    "/Users/lewiswebb/.nuget/packages/system.text.json/4.7.2/system.text.json.4.7.2.nupkg.sha512",
+    "/Users/lewiswebb/.nuget/packages/system.threading.tasks.extensions/4.5.4/system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "message": "Package 'Azure.Identity' 1.11.2 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-m5vv-6r4h-3vj9",
+      "projectPath": "/Users/lewiswebb/Documents/VSCode_Azure/Mini-e2e-labs/KeyVaultLab/WebApp/WebApp.csproj",
+      "warningLevel": 1,
+      "filePath": "/Users/lewiswebb/Documents/VSCode_Azure/Mini-e2e-labs/KeyVaultLab/WebApp/WebApp.csproj",
+      "libraryId": "Azure.Identity",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
