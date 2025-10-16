@@ -77,11 +77,11 @@ try
 {
     KeyVaultSecret secret = await client.GetSecretAsync("DbConnectionString");
     dbConnectionString = secret.Value;
-    Console.WriteLine($"Successfully retrieved secret: {secret.Name}");
+    Console.WriteLine("Successfully retrieved secret: {secret.Name}");
 }
 catch (Exception ex)
 {
-    Console.WriteLine($"Error retrieving secret: {ex.Message}");
+    Console.WriteLine("Error retrieving secret: {ex.Message}");
 }
 
 app.MapGet("/", () => Results.Ok("Key Vault Lab Application is Running. Access /config for details."));
