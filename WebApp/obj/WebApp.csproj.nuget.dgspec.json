@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/lewiswebb/Documents/VSCode_Azure/Mini-e2e-labs/KeyVaultLab/WebApp/WebApp.csproj": {}
+    "/Users/lewiswebb/Documents/VSCode_Azure/KeyVaultLab/WebApp/WebApp.csproj": {}
   },
   "projects": {
-    "/Users/lewiswebb/Documents/VSCode_Azure/Mini-e2e-labs/KeyVaultLab/WebApp/WebApp.csproj": {
+    "/Users/lewiswebb/Documents/VSCode_Azure/KeyVaultLab/WebApp/WebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/lewiswebb/Documents/VSCode_Azure/Mini-e2e-labs/KeyVaultLab/WebApp/WebApp.csproj",
+        "projectUniqueName": "/Users/lewiswebb/Documents/VSCode_Azure/KeyVaultLab/WebApp/WebApp.csproj",
         "projectName": "WebApp",
-        "projectPath": "/Users/lewiswebb/Documents/VSCode_Azure/Mini-e2e-labs/KeyVaultLab/WebApp/WebApp.csproj",
+        "projectPath": "/Users/lewiswebb/Documents/VSCode_Azure/KeyVaultLab/WebApp/WebApp.csproj",
         "packagesPath": "/Users/lewiswebb/.nuget/packages/",
-        "outputPath": "/Users/lewiswebb/Documents/VSCode_Azure/Mini-e2e-labs/KeyVaultLab/WebApp/obj/",
+        "outputPath": "/Users/lewiswebb/Documents/VSCode_Azure/KeyVaultLab/WebApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/lewiswebb/.nuget/NuGet/NuGet.Config"

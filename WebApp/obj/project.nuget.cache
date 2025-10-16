@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "I7xJzRhllVY=",
+  "dgSpecHash": "Q9uchrZIix4=",
   "success": true,
-  "projectFilePath": "/Users/lewiswebb/Documents/VSCode_Azure/Mini-e2e-labs/KeyVaultLab/WebApp/WebApp.csproj",
+  "projectFilePath": "/Users/lewiswebb/Documents/VSCode_Azure/KeyVaultLab/WebApp/WebApp.csproj",
   "expectedPackageFiles": [
     "/Users/lewiswebb/.nuget/packages/azure.core/1.38.0/azure.core.1.38.0.nupkg.sha512",
     "/Users/lewiswebb/.nuget/packages/azure.identity/1.11.2/azure.identity.1.11.2.nupkg.sha512",
@@ -33,9 +33,9 @@
       "code": "NU1902",
       "level": "Warning",
       "message": "Package 'Azure.Identity' 1.11.2 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-m5vv-6r4h-3vj9",
-      "projectPath": "/Users/lewiswebb/Documents/VSCode_Azure/Mini-e2e-labs/KeyVaultLab/WebApp/WebApp.csproj",
+      "projectPath": "/Users/lewiswebb/Documents/VSCode_Azure/KeyVaultLab/WebApp/WebApp.csproj",
       "warningLevel": 1,
-      "filePath": "/Users/lewiswebb/Documents/VSCode_Azure/Mini-e2e-labs/KeyVaultLab/WebApp/WebApp.csproj",
+      "filePath": "/Users/lewiswebb/Documents/VSCode_Azure/KeyVaultLab/WebApp/WebApp.csproj",
       "libraryId": "Azure.Identity",
       "targetGraphs": [
         "net8.0"
